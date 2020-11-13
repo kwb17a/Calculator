@@ -1,0 +1,15 @@
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.exe
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.deps.json
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.json
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.runtimeconfig.dev.json
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\bin\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csprojAssemblyReference.cache
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.Form1.resources
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.GenerateResource.cache
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfoInputs.cache
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.AssemblyInfo.cs
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.dll
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.pdb
+C:\Users\thesh\OneDrive - acu.edu\2020 - FALL\CS 230.01 - Object Oriented\Module 10\Calculator\Calculator\obj\Debug\netcoreapp3.1\Calculator.genruntimeconfig.cache
